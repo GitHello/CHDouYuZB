@@ -52,7 +52,7 @@
 		1DCC773421C9F517007A5D0E /* DYZB */ = {
 			isa = PBXGroup;
 			children = (
-				1DED97DE21CA29B100343D33 /* Classes */,
+				1DD1C61C21CA302A005CA742 /* Classes */,
 				1DCC773521C9F517007A5D0E /* AppDelegate.swift */,
 				1DCC773921C9F517007A5D0E /* Main.storyboard */,
 				1DCC773C21C9F518007A5D0E /* Assets.xcassets */,
@@ -62,55 +62,55 @@
 			path = DYZB;
 			sourceTree = "<group>";
 		};
-		1DED97DE21CA29B100343D33 /* Classes */ = {
+		1DD1C61C21CA302A005CA742 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				1DED97E421CA29B100343D33 /* Main */,
-				1DED97DF21CA29B100343D33 /* Home */,
-				1DED97E321CA29B100343D33 /* Live */,
-				1DED97E121CA29B100343D33 /* Follow */,
-				1DED97E221CA29B100343D33 /* Profile */,
-				1DED97E021CA29B100343D33 /* Tools */,
+				1DD1C61D21CA302A005CA742 /* Home */,
+				1DD1C61E21CA302A005CA742 /* Tools */,
+				1DD1C61F21CA302A005CA742 /* Follow */,
+				1DD1C62021CA302A005CA742 /* Profile */,
+				1DD1C62121CA302A005CA742 /* Live */,
+				1DD1C62221CA302A005CA742 /* Main */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
 		};
-		1DED97DF21CA29B100343D33 /* Home */ = {
+		1DD1C61D21CA302A005CA742 /* Home */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Home;
 			sourceTree = "<group>";
 		};
-		1DED97E021CA29B100343D33 /* Tools */ = {
+		1DD1C61E21CA302A005CA742 /* Tools */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Tools;
 			sourceTree = "<group>";
 		};
-		1DED97E121CA29B100343D33 /* Follow */ = {
+		1DD1C61F21CA302A005CA742 /* Follow */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Follow;
 			sourceTree = "<group>";
 		};
-		1DED97E221CA29B100343D33 /* Profile */ = {
+		1DD1C62021CA302A005CA742 /* Profile */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Profile;
 			sourceTree = "<group>";
 		};
-		1DED97E321CA29B100343D33 /* Live */ = {
+		1DD1C62121CA302A005CA742 /* Live */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Live;
 			sourceTree = "<group>";
 		};
-		1DED97E421CA29B100343D33 /* Main */ = {
+		1DD1C62221CA302A005CA742 /* Main */ = {
 			isa = PBXGroup;
 			children = (
 			);
