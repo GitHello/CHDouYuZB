@@ -65,56 +65,56 @@
 		1DCC774721CA210B007A5D0E /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				1DCC774B21CA2154007A5D0E /* Main */,
-				1DCC774D21CA21A9007A5D0E /* Home */,
-				1DCC774C21CA219F007A5D0E /* Live */,
-				1DCC774A21CA2144007A5D0E /* Follow */,
-				1DCC774921CA2138007A5D0E /* Profile */,
-				1DCC774821CA212D007A5D0E /* Tools */,
+				1DCC775121CA26DC007A5D0E /* Main */,
+				1DCC775021CA26DC007A5D0E /* Home */,
+				1DCC774E21CA26DC007A5D0E /* Live */,
+				1DCC774F21CA26DC007A5D0E /* Follow */,
+				1DCC775221CA26DC007A5D0E /* Profile */,
+				1DCC775321CA26DC007A5D0E /* Tools */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
 		};
-		1DCC774821CA212D007A5D0E /* Tools */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Tools;
-			sourceTree = "<group>";
-		};
-		1DCC774921CA2138007A5D0E /* Profile */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Profile;
-			sourceTree = "<group>";
-		};
-		1DCC774A21CA2144007A5D0E /* Follow */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Follow;
-			sourceTree = "<group>";
-		};
-		1DCC774B21CA2154007A5D0E /* Main */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Main;
-			sourceTree = "<group>";
-		};
-		1DCC774C21CA219F007A5D0E /* Live */ = {
+		1DCC774E21CA26DC007A5D0E /* Live */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Live;
 			sourceTree = "<group>";
 		};
-		1DCC774D21CA21A9007A5D0E /* Home */ = {
+		1DCC774F21CA26DC007A5D0E /* Follow */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Follow;
+			sourceTree = "<group>";
+		};
+		1DCC775021CA26DC007A5D0E /* Home */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Home;
+			sourceTree = "<group>";
+		};
+		1DCC775121CA26DC007A5D0E /* Main */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
+		1DCC775221CA26DC007A5D0E /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		1DCC775321CA26DC007A5D0E /* Tools */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Tools;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
